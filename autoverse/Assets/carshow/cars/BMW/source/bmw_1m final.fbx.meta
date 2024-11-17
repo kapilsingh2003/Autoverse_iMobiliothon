@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 8f0d68884f2a2954ea326b02f809c33a
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Audio_TILEl
+    second: {fileID: 2800000, guid: 337c9ffb1159ad845a706ecee1e6bd51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BMW_loghi_COLOR
+    second: {fileID: 2800000, guid: d91c13aaf19bec641b4b93a351b94a7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BrakeClaw
+    second: {fileID: 2800000, guid: c5acf021d7e485745848754a4bb60cb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BrakeClaw_NM
+    second: {fileID: 2800000, guid: 921df38ef2865054299f0d6fb0719479, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: COLORE_Grigio
+    second: {fileID: 2800000, guid: 3126fe9d9dae6344695ae6b9747f393a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: COLORE_nero
+    second: {fileID: 2800000, guid: 0d31337495ff7794b8cd765e104c9f7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Chassis_COLOR
+    second: {fileID: 2800000, guid: 2dcb333e7af8f044c88fb43b5eb0d3e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cockpit_Belt
+    second: {fileID: 2800000, guid: b5ba89cdb5ebcc04597ce80b7045d46f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cockpit_Belt_NM
+    second: {fileID: 2800000, guid: ce12a49dc586ea444879419c061c077a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cockpit_Decals
+    second: {fileID: 2800000, guid: 383e4c45a25498844899a6d646eca2cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Col_White_D
+    second: {fileID: 2800000, guid: 2bd69886ecf14d1458c022227942158a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dettaglio_Faro
+    second: {fileID: 2800000, guid: e5ef6826e88864049ad37e70f4941a02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Door_Grid_NM
+    second: {fileID: 2800000, guid: 7a677a7baf40de04a868dcf39bc40d0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fanali_Anteriori_OS
+    second: {fileID: 2800000, guid: 988a39945c0c65c468ef83f0fe4a1468, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fanali_Posteriori_D_lr
+    second: {fileID: 2800000, guid: 717f2ef51b9a6a64db206734d796826b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fanali_Posteriori_Extra
+    second: {fileID: 2800000, guid: 7881a14870d0e7d4a8fac68c4734b57f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fanali_Posteriori_Extra_NM
+    second: {fileID: 2800000, guid: 897610da6760c874d94c98679923ae70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fanali_Posteriori_OS
+    second: {fileID: 2800000, guid: c1f38fe364701cc428edce865f81aeb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GasCap_NM
+    second: {fileID: 2800000, guid: 29ef697674023e042b9f689ec841b693, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gomma_Base_NM
+    second: {fileID: 2800000, guid: 63866fa5f8b1b6249939e88b1948de4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gomma_unica_BASE
+    second: {fileID: 2800000, guid: e6dcb9afb6b441d42b0348b1f05be5e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Griglia
+    second: {fileID: 2800000, guid: 0823b56aab3111f4f875ff1882f9be23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Griglia_NM
+    second: {fileID: 2800000, guid: 4239f5b779ed34540b809fc7905c98c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: INT_display
+    second: {fileID: 2800000, guid: 61796bfd0f65f9643a3ffcb08845d4ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MAT_Metallo_Bianco
+    second: {fileID: 2800000, guid: 2474a8b1901cf544fabd6501e54a1132, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MAT_Plastica_Grigia
+    second: {fileID: 2800000, guid: 76d5aba2681b57648bf9faf44fbc4068, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MAT_Vetro_INTERNO
+    second: {fileID: 2800000, guid: fa318c5b6f4d67e44b2953a7eb761b8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MAT_gomma
+    second: {fileID: 2800000, guid: 025b0ab4b5103e24e92fe59c5bcd1983, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pedali
+    second: {fileID: 2800000, guid: ddffbc713d13653498a408eee95b1a76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pedali_NM
+    second: {fileID: 2800000, guid: 6e8fc534e02090743a2b56ecc7bb906c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pedana_NM
+    second: {fileID: 2800000, guid: c1be9b27d138b1346bd283e24169a15d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RIM_OS
+    second: {fileID: 2800000, guid: 99fed19e1d8309445afea5f442e2b776, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rotelline
+    second: {fileID: 2800000, guid: 1877f82727146194f8c3c3b81b693f77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rotelline_NM
+    second: {fileID: 2800000, guid: e60b4509ee292054781809dca42f0aff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SkinBase
+    second: {fileID: 2800000, guid: 09dc43383804d084d8db0fe837c2f903, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TEssuto
+    second: {fileID: 2800000, guid: 5e8fea88cd63bc34c95fccfdbd6c3d40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vetri_Abitacolo
+    second: {fileID: 2800000, guid: 076cbfb4049acea479363875632babad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brake_speed_0
+    second: {fileID: 2800000, guid: cdfa754d061ab4e48a66d1e60815a7d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cuciture
+    second: {fileID: 2800000, guid: 248d7df30de1f1f4fb7141827d62f6a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cuciture_NM
+    second: {fileID: 2800000, guid: 60fcac4cdf14a7c43bddfe2647a08fe1, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
